@@ -1,0 +1,9 @@
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+c:\users\lewis\documents\visual studio 2017\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
